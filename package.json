@@ -1,0 +1,9 @@
+{
+    "name": "karstemplate",
+    "version": "1.0.0",
+    "description": "Kars Typescript Template.",
+    "main": "./dist/exports.js",
+    "keywords": [],
+    "author": "Kars",
+    "license": "MIT"
+}
